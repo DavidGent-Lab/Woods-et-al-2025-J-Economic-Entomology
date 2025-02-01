@@ -17,11 +17,6 @@ Shake.csv
 Yield.csv
 --Yield, hop chemistry, and various quality metrics
 
-Two files have code, as both a text file and as a SAS file with the associated data.
-
-Woods et al 2025 Imidacloprid Code.txt
---SAS code with data.
-
 Woods et al 2025 Imidacloprid Data and Code.SAS
 --This file contains the SAS version 9.4 code (and data) to reproduce the analyses.
 
