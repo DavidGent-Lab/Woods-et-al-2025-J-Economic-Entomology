@@ -35,7 +35,7 @@ Year: 2021, 2022, and 2023
 
 Date: MM/DD/YY format
 
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 
 TRT: Treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 
@@ -67,7 +67,7 @@ Year: 2021, 2022, and 2023
 
 Date: MM/DD/YY format
 
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 
 TRT: Treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 
@@ -116,7 +116,7 @@ Year: 2021, 2022, and 2023
 
 Date: Specific date of harvest in MM/DD/YY format
 
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 
 Treatment: Imidacloprid treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 
