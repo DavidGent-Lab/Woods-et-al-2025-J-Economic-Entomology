@@ -4,7 +4,7 @@
 Variables are:
 Year: 2021, 2022, and 2023
 Date: MM/DD/YY format
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 TRT: Treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 Height: Height in the canopy where leaves were collected, either Lower (<2 m) or Upper (>2 m)
 Leaf: Subsampled leaves collected from each height x block x trt
@@ -12103,7 +12103,7 @@ run;
 /*Data for canopy shake samples follows;
 Year: 2021, 2022, and 2023
 Date: MM/DD/YY format
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 TRT: Treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 Shakes: Number of bines from which shake samples were collected.
 LBAdult: Aphidphagous ladybeetle adults, all species
@@ -12608,7 +12608,7 @@ run;
 /*Yield data follows:
 Year: 2021, 2022, and 2023
 Date: Specific date of harvest in MM/DD/YY format
-Block: Replicate block indicted with Roman numerals I to VI for the six replicate blocks
+Block: Replicate block indicted with Roman numerals I to VIII for the eight replicate blocks
 Treatment: Imidacloprid treatment, where 1 = nontreated, 2 = imidacloprid applied in May, and 3 = imidacloprid applied in June
 Strings: Number of strings harvested per plot
 DM: Dry matter, expressed as a proportion
