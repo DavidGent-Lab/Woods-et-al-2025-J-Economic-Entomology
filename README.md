@@ -6,7 +6,7 @@ These files are provided to enable full reproducibility of the statistical analy
 Corresponding author: David H. Gent dave.gent@usda.gov
 
 # Files
-Three CSV files are given.
+Three CSV files are given with the data sets.
 
 Provado.csv
 --This contains the data from the leaf-level assessments of arthropods
@@ -17,8 +17,13 @@ Shake.csv
 Yield.csv
 --Yield, hop chemistry, and various quality metrics
 
+Two files have code, as both a text file and as a SAS file with the associated data.
+
 Woods et al 2025 Imidacloprid Code.txt
---This file contains the SAS version 9.4 code to reproduce the analyses.
+--SAS code with data.
+
+Woods et al 2025 Imidacloprid Data and Code.SAS
+--This file contains the SAS version 9.4 code (and data) to reproduce the analyses.
 
 
 # Variable Description
